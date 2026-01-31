@@ -29,6 +29,8 @@ This project demonstrates how Python can be used to work with real financial dat
 ---
 
 ## Project Structure
+
+```text
 stock-analysis-tool/
 ├── stock_analysis.py
 ├── requirements.txt
@@ -38,6 +40,7 @@ stock-analysis-tool/
 │   └── sample_aapl.png
 ├── output/
 └── .venv/
+
 
 ---
 
@@ -72,4 +75,5 @@ Include valuation metrics such as P/E ratio and market capitalization
 Convert the script into an interactive dashboard
 
 ## Disclaimer
+
 This project is for educational purposes only and does not constitute investment advice.
