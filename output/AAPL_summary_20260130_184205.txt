@@ -1,0 +1,8 @@
+Ticker: AAPL
+Period Start: 2025-04-11
+Period End: 2026-01-30
+Start Close: 198.15
+Latest Close: 259.48
+Total Return (%): 30.95
+Avg Daily Return (%): 0.1642
+Annualized Volatility (%): 23.53
